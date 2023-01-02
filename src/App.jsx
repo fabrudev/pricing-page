@@ -76,6 +76,8 @@ function App() {
         </div>
 
       </div>
+
+      <p className='footer'>This page it was created by Fabrizio Zarate</p>
     </div>
   )
 }
